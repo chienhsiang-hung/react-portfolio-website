@@ -26,10 +26,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-portfolio-website start",
-    "build": "react-portfolio-website build",
-    "test": "react-portfolio-website test",
-    "eject": "react-portfolio-website eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "react-scripts dev"
   },
   "eslintConfig": {
     "extends": [
